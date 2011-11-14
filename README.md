@@ -10,6 +10,6 @@ planning a trip to Europe and it never hurts to brush up on French.
 
 <h3>Usage</h3>
 
-{{{
+<code>
 python lal.py
-}}}
+</code>
